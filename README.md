@@ -112,8 +112,8 @@ Through this project, I gained hands-on experience in:
 
 ## 🌐 Live Demo
 
-Add your deployed website link here.
-
+Live deployed link is here.
+https://arulpriya-ap.github.io/tripadvisor-clone/
 ---
 
 ## 📌 Author
